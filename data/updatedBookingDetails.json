@@ -1,0 +1,11 @@
+{
+        "firstname": "karthik",
+        "lastname": "rasamsetti",
+        "totalprice": 4500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2023-03-25",
+            "checkout": "2023-03-30"
+        },
+        "additionalneeds": "Breakfast"
+    }

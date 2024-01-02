@@ -1,0 +1,13 @@
+
+
+{
+    "firstname": "karthik",
+    "lastname": "raja",
+    "totalprice": 230,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2016-05-20",
+        "checkout": "2022-08-02"
+    },
+    "additionalneeds": "Breakfast"
+}
